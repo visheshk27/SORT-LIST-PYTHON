@@ -1,4 +1,4 @@
-# SORTI-LIST-PYTHON
+# SORTING-LIST-PYTHON
 
 
 # Sorting list of Integers in ascending
